@@ -16,6 +16,10 @@ For this assignment you will be using the NextJS framework to create a Pokédex 
   - Type
 -As a user, I want to view a random pokémon
 
+### Other requirements
+- App must use a layout component
+- App must use at least 2 other reuseable compoents
+
 ## Tips
 - Work through the tutorial on nextjs.org to learn about how the NextJS Framework works.
 - As with any new tool or framework, ask: why does this exist? What does it help me do?
