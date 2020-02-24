@@ -14,11 +14,12 @@ For this assignment you will be using the NextJS framework to create a Pokédex 
   - Category
   - Weight
   - Type
--As a user, I want to view a random pokémon
+- As a user, I want to view a random pokémon
 
 ### Other requirements
 - App must use a layout component
 - App must use at least 2 other reuseable compoents
+- Host app with Now from [Zeit](https://zeit.co/home) - [See docs from NextJS](https://nextjs.org/learn/basics/deploying-a-nextjs-app)
 
 ## Tips
 - Work through the tutorial on nextjs.org to learn about how the NextJS Framework works.
